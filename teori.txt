@@ -1,0 +1,7 @@
+service Server terdiri dari dua controller UserController untuk User, dan CatalogController untuk Catalog.
+
+JWT diberikan saat user Login dan di verifikasi ketika user ingin menuju '/catalogs' dan seterusnya
+
+DB = postgreSQL
+Program = nodeJS
+
